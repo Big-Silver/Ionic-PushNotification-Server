@@ -4,10 +4,6 @@ import java.net.URL;
 
 public class AndroidPush {
 
-    /**
-     * Replace SERVER_KEY with your SERVER_KEY generated from FCM
-     * Replace DEVICE_TOKEN with your DEVICE_TOKEN
-     */
     private static String SERVER_KEY = "YOUR_SERVER_KEY";
     private static String DEVICE_TOKEN = "YOUR_DEVICE_TOKEN";
 
